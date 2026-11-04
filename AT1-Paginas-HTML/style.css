@@ -1,0 +1,36 @@
+body.bolos {
+    background-image: url("../image/WhatsApp Image 2026-09-08 at 22.16.45.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+body.confeitaria {
+    background-image: url("../image/WhatsApp Image 2026-09-08 at 22.48.56.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+body.receita{
+    background-image: url("../image/WhatsApp Image 2026-09-08 at 23.07.57.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+body.salgados{
+    background-image: url("../image/WhatsApp Image 2026-09-08 at 22.50.51.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+body.doces{
+background-image: url("../image/WhatsApp Image 2026-09-08 at 22.52.03.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
