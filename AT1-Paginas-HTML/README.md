@@ -25,5 +25,5 @@ normalização de dados para melhorar a performance dos algoritmos.
 sistema agrupa filmes por afinidade.
 
 ## 💻 Deploy do projeto
-(https://github.com/lohanyshimabukuro17-dotcom/portfolio-lohany-shimabukuro/blob/main/AT1-Paginas-HTML/style.css)---
+https://github.com/lohanyshimabukuro17-dotcom/portfolio-lohany-shimabukuro/blob/main/AT1-Paginas-HTML/style.css
 [Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
