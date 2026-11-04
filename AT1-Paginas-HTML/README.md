@@ -1,58 +1,29 @@
-# Lohany Shimabukuro Beserra
-> Estudante de Analise de Desenvolvimento de Sistema
----
-### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
-badge&logo=linkedin&logoColor=white https://www.linkedin.com/in/lohany-shimabukuro-6124a22b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+# 🎬 Paginas em HTML
+## 📝 Descrição do Projeto
+Este projeto consiste em um motor de recomendação inteligente que
+utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O
+objetivo principal é mitigar a "paralisia de escolha", oferecendo aos
+usuários sugestões personalizadas com base em seu histórico de
+visualização e preferências de gênero.
+Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End
+Para Web (2026.2)**, o sistema processa grandes volumes de dados
+(datasets de filmes e avaliações) para identificar padrões de
+comportamento e similaridades entre títulos, utilizando algoritmos de
+aprendizado de máquina para prever a nota que um usuário daria a um
+filme ainda não assistido.
+## 🚀 Tecnologias Utilizadas
+* **Linguagem:** HTML5, CSS e JavaScript
+* **Bibliotecas:** Bootstrap
+* **Ferramentas:** VSCode
+## 📊 Resultados e Aprendizados
+O projeto alcançou resultados sólidos em ambiente de teste, demonstrando
+a eficácia do modelo híbrido.
+* **O modelo atingiu 92% de acurácia** nos testes de validação.
+* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e
+normalização de dados para melhorar a performance dos algoritmos.
+* **Visualização de Clusters:** Implementei gráficos que mostram como o
+sistema agrupa filmes por afinidade.
 
----
-### 󰞵 Sobre
-Atualmente cursando o [2º] período de Analise de Desenvolvimento de Sistema na UNICID. Sou apaixonado por resolver problemas através da
-tecnologia e possuo foco em [Área de Interesse - cibersegurança ].
-* **Habilidades Técnicas:** [Python e SQL].
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação
-assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação
-Científica/Estágio] onde desenvolvi [resultado principal].
----
-### 🛠 Minhas Ferramentas Favoritas
-#### 💻 Linguagens e Tecnologias
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge
-&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-ba
-dge&logo=openjdk&logoColor=white)
-#### 🗄 Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-t
-he-badge&logo=postgresql&logoColor=white)
-#### 🤖 Inteligência Artificial & Ciência de Dados
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-th
-e-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg
-?style=for-the-badge&logo=scikit-learn&logoColor=white)
----
-### 📂 Portfólio de Projetos
-#### 󰳕 Desenvolvimento Front-End para Web
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Site Básico em HTML5** | Criação de site básico com 5 páginas em
-HTML5. | [Ver Projeto](./AT1-Paginas-HTML/) |
-| **Deploy de Site** | Publicação de site no github pages. | [Ver
-Projeto](./AT2-Deploy-de-Site/) |
-| **Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com
-JavaScript. | [Ver Projeto](./AT3-Calculadora-IMC/) |
-| **Site com Bootstrap** | Aplicação do Bootstrap para o desenvolvimento
-de um site com múltiplas páginas. | [Ver
-Projeto](./AT4-Site-Multi-Paginas-Bootstrap/) |
-| **Desenvolvimento com IA** | Copilotando o desenvolvimento front-end
-com IA. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
-#### 🗃 Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Nome do projeto** | Documento de Requisitos, Modelagem ER e Scripts
-SQL. | [Ver Projeto](./projeto-banco-dados/) |
----
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o
-README específico do projeto acadêmico.
+## 💻 Deploy do projeto
+(https://github.com/lohanyshimabukuro17-dotcom/portfolio-lohany-shimabukuro/blob/main/AT1-Paginas-HTML/style.css)---
+[Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
