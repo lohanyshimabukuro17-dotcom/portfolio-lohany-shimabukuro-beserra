@@ -14,7 +14,7 @@ Projeto acadêmico do portfólio de **Análise e Desenvolvimento de Sistemas —
 
 ## 📊 Resultados e Aprendizados
 - **Conteúdos estudados:** navegação entre páginas e responsividade.
-- **Situação atual:** O projeto está compactado em site-abas-portfolio-main.zip; o deploy não foi confirmado.
+- **Situação atual:** Os arquivos HTML, CSS e JavaScript do projeto original também estão disponíveis diretamente nesta pasta; o deploy não foi confirmado.
 - **Resultados quantitativos:** não foram apresentados dados de testes para relatar métricas verificadas.
 
 ## 🧠 Declaração de Uso Ético da IA
