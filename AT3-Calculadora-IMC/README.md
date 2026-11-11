@@ -13,13 +13,15 @@ Projeto acadêmico do portfólio de **Análise e Desenvolvimento de Sistemas —
 
 ## 📊 Resultados e Aprendizados
 - **Conteúdos estudados:** lógica, cálculos e interação com formulários.
-- **Situação atual:** O código está no arquivo HTML.zip; não foi testado nesta revisão.
+- **Situação atual:** O código original da calculadora foi extraído do arquivo HTML.zip e está disponível em `index.html`. O arquivo reúne HTML, CSS e JavaScript. A execução no navegador ainda não foi validada.
 - **Resultados quantitativos:** não foram apresentados dados de testes para relatar métricas verificadas.
 
 ## 🧠 Declaração de Uso Ético da IA
 Ferramentas de inteligência artificial foram utilizadas como apoio à organização desta documentação. O uso de IA no código do projeto deve ser informado conforme o que realmente ocorreu. A revisão, os testes e a responsabilidade pela entrega final cabem aos integrantes do projeto.
 
 ## 💻 Deploy do Projeto
+**Código-fonte:** [Abrir index.html](./index.html).
+
 **Endereço de publicação:** ainda não confirmado. Adicionar somente após publicar e testar o projeto.
 
 ---
