@@ -1,29 +1,27 @@
-# 🎬 Paginas em HTML
-## 📝 Descrição do Projeto
-Este projeto consiste em um motor de recomendação inteligente que
-utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O
-objetivo principal é mitigar a "paralisia de escolha", oferecendo aos
-usuários sugestões personalizadas com base em seu histórico de
-visualização e preferências de gênero.
-Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End
-Para Web (2026.2)**, o sistema processa grandes volumes de dados
-(datasets de filmes e avaliações) para identificar padrões de
-comportamento e similaridades entre títulos, utilizando algoritmos de
-aprendizado de máquina para prever a nota que um usuário daria a um
-filme ainda não assistido.
-## 🚀 Tecnologias Utilizadas
-* **Linguagem:** HTML5, CSS e JavaScript
-* **Bibliotecas:** Bootstrap
-* **Ferramentas:** VSCode
-## 📊 Resultados e Aprendizados
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando
-a eficácia do modelo híbrido.
-* **O modelo atingiu 92% de acurácia** nos testes de validação.
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e
-normalização de dados para melhorar a performance dos algoritmos.
-* **Visualização de Clusters:** Implementei gráficos que mostram como o
-sistema agrupa filmes por afinidade.
+# 💗 Páginas em HTML5
 
-## 💻 Deploy do projeto
-https://github.com/lohanyshimabukuro17-dotcom/portfolio-lohany-shimabukuro/blob/main/AT1-Paginas-HTML/style.css
-[Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
+## 📝 Descrição do Projeto
+Construção de páginas web para praticar a organização do conteúdo e a estilização.
+
+Projeto acadêmico do portfólio de **Análise e Desenvolvimento de Sistemas — UNICID**, na área de Desenvolvimento Front-End para Web.
+
+## 🚀 Tecnologias Utilizadas
+- HTML5
+- CSS3
+
+**Ferramentas de organização:** GitHub e Visual Studio Code.
+
+## 📊 Resultados e Aprendizados
+- **Conteúdos estudados:** estrutura de páginas, estilos e organização de arquivos.
+- **Situação atual:** O repositório inclui style.css e um arquivo ZIP; a execução completa não foi validada.
+- **Resultados quantitativos:** não foram apresentados dados de testes para relatar métricas verificadas.
+
+## 🧠 Declaração de Uso Ético da IA
+Ferramentas de inteligência artificial foram utilizadas como apoio à organização desta documentação. O uso de IA no código do projeto deve ser informado conforme o que realmente ocorreu. A revisão, os testes e a responsabilidade pela entrega final cabem aos integrantes do projeto.
+
+## 💻 Deploy do Projeto
+**Endereço de publicação:** ainda não confirmado. Adicionar somente após publicar e testar o projeto.
+
+---
+
+[⬅️ Voltar ao portfólio](https://github.com/lohanyshimabukuro17-dotcom/portfolio-lohany-shimabukuro-beserra)
