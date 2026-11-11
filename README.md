@@ -60,6 +60,25 @@ Gosto de aprender na prática, trabalhar em equipe e descobrir como a tecnologia
 
 > 📚 Estes projetos fazem parte da minha jornada de aprendizagem. Alguns são atividades ou documentações acadêmicas e não necessariamente aplicações publicadas em produção.
 
+## 🏗️ Estrutura do repositório
+
+```text
+portfolio-lohany-shimabukuro-beserra/
+├── README.md
+├── AT1-Paginas-HTML/
+│   └── README.md
+├── AT2-Deploy-de-Site/
+│   └── README.md
+├── AT3-Calculadora-IMC/
+│   └── README.md
+├── AT4-Site-Multi-Paginas-Bootstrap/
+│   └── README.md
+└── AT5-Front-End-Copilotado-com-IA/
+    └── README.md
+```
+
+Cada pasta contém sua documentação específica. Alguns arquivos de código ainda estão compactados em ZIP; para uma entrega completa, é recomendável manter os arquivos de projeto extraídos nas pastas correspondentes.
+
 ## 💌 Vamos nos conectar?
 
 <div align="center">
