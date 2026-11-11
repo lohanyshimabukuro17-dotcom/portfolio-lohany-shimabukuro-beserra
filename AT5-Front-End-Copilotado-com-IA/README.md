@@ -15,7 +15,7 @@ Projeto acadêmico do portfólio de **Análise e Desenvolvimento de Sistemas —
 
 ## 📊 Resultados e Aprendizados
 - **Conteúdos estudados:** revisão crítica, interface web e documentação.
-- **Situação atual:** O projeto está compactado em Mente-em-Alta-Performance-main.zip; é necessário verificar o funcionamento e os registros de auditoria.
+- **Situação atual:** Os arquivos HTML, CSS, JavaScript e AUDITORIA_IA.md do projeto original estão disponíveis diretamente nesta pasta; o deploy e a execução ainda precisam ser conferidos.
 - **Resultados quantitativos:** não foram apresentados dados de testes para relatar métricas verificadas.
 
 ## 🧠 Declaração de Uso Ético da IA
